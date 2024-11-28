@@ -28,6 +28,11 @@
 
 
 
+## Screenshots
+
+![MENU DO JOGO](Screenshot_5.png)
+
+
 ## 📜 Licença
 
     [MIT]
@@ -40,9 +45,4 @@
     Contribuições são bem-vindas!
     Se você tiver sugestões ou encontrar algum problema, abra uma issue ou envie um pull request.
     Você também pode entrar em contato comigo pelo instagram: @daniel_d4c
-
-
-## Screenshots
-
-![MENU DO JOGO](Screenshot_5.png)
 
