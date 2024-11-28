@@ -21,7 +21,7 @@
 
 ## 🖥️ Screenshots
 
-![PRINT DO MENU](https://prnt.sc/5nZsUFMS974z)
+![PRINT DO MENU](Screenshot_5.png)
 
 
 ## 📜 Licença
