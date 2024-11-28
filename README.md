@@ -34,11 +34,7 @@
 
 
 ## 📜 Licença
-
-    [MIT]
-    Este projeto está licenciado sob a MIT License. 
-    Sinta-se à vontade para usar, modificar e distribuir, dando os devidos créditos.
-
+    [MIT] (https://github.com/DanielAndLeinad/Jogo-de-Reciclagem---Feito-no-game-maker/blob/main/LICENSE)
 
 ## 🌟 Contribuições
 
