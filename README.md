@@ -36,5 +36,5 @@
 
     Contribuições são bem-vindas!
     Se você tiver sugestões ou encontrar algum problema, abra uma issue ou envie um pull request.
-    Você também pode entrar em contato comigo pelo instagram: @daniel16Bit
+    Você também pode entrar em contato comigo pelo instagram: @daniel8Bit
 
