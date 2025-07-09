@@ -32,10 +32,6 @@
 
 ![MENU DO JOGO](Screenshot_5.png)
 
-
-## 📜 Licença
-[MIT] (https://github.com/DanielAndLeinad/Jogo-de-Reciclagem---Feito-no-game-maker/blob/main/LICENSE)
-
 ## 🌟 Contribuições
 
     Contribuições são bem-vindas!
